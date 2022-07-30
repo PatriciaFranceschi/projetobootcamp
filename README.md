@@ -1,4 +1,4 @@
-# projetobootcamp
+🔹Astrazione di un Bootcamp utilizzando Java orientato agli oggetti
 
 Sfida: imparare la programmazione orientata agli oggetti in pratica
 
